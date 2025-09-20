@@ -44,7 +44,7 @@ It will repeatedly calculate IK for this position and output joint angles to ter
 
 `python ik_solver.py -g -i`
 
-It will reset robot to initial position defined in line 166 after each calculation
+It will reset robot to initial position after each calculation
 
 **Animate motion**
 
