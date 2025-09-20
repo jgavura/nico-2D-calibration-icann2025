@@ -1,6 +1,7 @@
 # NICO 2D Calibration
 
-[![DOI:10.5281/zenodo.17164885](http://img.shields.io/badge/DOI-10.5281/zenodo.17164885-1E90FF.svg)](https://zenodo.org/records/17164885)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17167890.svg)](https://doi.org/10.5281/zenodo.17167890)
+
 
 Calibration of NICO for sim-to-real transfer in 2D tasks. Win/Linux friendly.
 
